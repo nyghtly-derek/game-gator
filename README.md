@@ -7,6 +7,7 @@ Filters sales data from GOG and Steam to find the best deals for the games you w
 ## Implementation
 
 [GOG API](https://gogapidocs.readthedocs.io/en/latest/)
+
 [Steam API](https://steamcommunity.com/dev)
 
 ## Similar Projects
